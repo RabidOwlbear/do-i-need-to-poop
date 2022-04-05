@@ -40,8 +40,8 @@
       "path": "./lang/en.json"
     }
   ],
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/RabidOwlbear/do-i-need-to-poop/",
+  "manifest": "https://raw.githubusercontent.com/RabidOwlbear/do-i-need-to-poop/main/module.json",
+  "download": "https://github.com/RabidOwlbear/do-i-need-to-poop/archive/refs/heads/main.zip",
   "readme": "README.md"
 }
