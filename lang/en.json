@@ -1,0 +1,33 @@
+{
+  
+  "settingsTrackPoop": "Track poopin",
+  "settingsTrackPoopHint": "Tracks time since last poop, sending chat message warnings when the urge arises.",
+
+  "trackinYourPoo": "Your Poopin' Is Now Being Tracked.",
+  "poopWarningA": "Already Trackin Your Poopin Silly.",
+
+  "pooMessageHeaderA": "Time To",
+
+  "stopWatchin": "Fine, No longer trackin poopin' for",
+
+  "singleSelectedWarn": "Please Select One Token.",
+
+  "pooFreqWarn": "Invalid frequency: please use a number between 1 and 50",
+
+  "pooEuph.1": "Pinch a Loaf.",
+  "pooEuph.2": "Make Room for Lunch.",
+  "pooEuph.3": "Bust a Grumpy",
+  "pooEuph.4": "Murder a Chocolate Snake.",
+  "pooEuph.5": "Plant Some Corn",
+  "pooEuph.6": "Doo the Doo.",
+  "pooEuph.7": "Grow a Tail",
+  "pooEuph.8": "Bake the Brownies",
+
+  "needToPoop.1": "doesn't need to poop",
+  "needToPoop.2": "could maybe poop.",
+  "needToPoop.3": "has one on deck.",
+  "needToPoop.4": "is feelin' the urge.",
+  "needToPoop.5": "has to poop...pretty bad."
+
+
+}
